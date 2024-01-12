@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=500&size=26&pause=1000&color=6222F7&center=true&vCenter=true&random=false&width=800&lines=An+unknown+college+student+in+pursuit+of+learning+software+development." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=26&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Do+more+of+what+makes+you+happy." alt="Typing SVG" /></a>
 </p>
 
 ## 🔨 Skills and Tools
