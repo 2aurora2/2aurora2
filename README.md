@@ -20,7 +20,3 @@
     <span>&emsp;&emsp;</span>
 </div>
 
-## ✨ Activity Graph
-
-![2aurora2's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2aurora2&theme=react)
-
