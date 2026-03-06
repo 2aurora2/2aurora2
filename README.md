@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi! I'm 2aurara2. 👋</h1>
 
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=2aurora2.2aurora2" /> </div>
+
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=2aurora2&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
