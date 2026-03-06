@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hi! I'm 2aurara2. 👋</h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=2aurora2)](https://git.io/streak-stats)
+<p align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=2aurora2&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</p>
 
 <p align="left">
     Artificial Intelligence · Software development · Life
