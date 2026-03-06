@@ -1,4 +1,6 @@
-<h1 align="left">👋 Hi! Nice to meet you. ✨</h1>
+<h1 align="center">👋 Hi! I'm 2aurara2. 👋</h1>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=2aurora2)](https://git.io/streak-stats)
 
 <p align="left">
     Artificial Intelligence · Software development · Life
