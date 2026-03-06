@@ -11,8 +11,7 @@
 </p>
 
 ## 🔥 Interests
-<ul>
-    <li>AI Agent：Large Language Model、OpenCode</li>
-    <li>Software development：Vue3、Flask</li>
-    <li>Arknights：Just for fun</li>
-</ul>
+* **AI Agent**：Large Language Model、OpenCode
+* **Software development**：Vue3、Flask、Express
+* **Scientific Research**: Pytorch, Latex
+* **Arknights**：Just for fun
