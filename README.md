@@ -10,9 +10,3 @@
     <li>Software development</li>
     <li>Arknights</li>
 </ul>
-
-## 📈 Github Statistics
-
-![2aurora2's GitHub stats](https://github-readme-stats.vercel.app/api?username=2aurora2&show_icons=true)
-
-
