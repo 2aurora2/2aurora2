@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi! I'm 2aurara2. 👋</h1>
+<h1 align="center">👋 Hi! I'm Reverie-Lin. 👋</h1>
 
 <div align="center">
   <a href="https://github.com/2aurora2"><img src="https://img.shields.io/badge/Blog-博客-8c36db" /></a>&emsp;
