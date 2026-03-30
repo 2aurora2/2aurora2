@@ -11,9 +11,9 @@
 </p>
 
 ## 🔥 Interests
-* **AI Agent**：Large Language Model、OpenCode
+* **AI Agent**：Large Language Model、OpenCode、Agent Skill
 * **Software development**：Vue3、Flask、Express
-* **Scientific Research**: Pytorch, Latex
+* **Scientific Research**: Pytorch、Latex
 * **Arknights**：Just for fun
 
 <div align="center">
